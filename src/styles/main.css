@@ -3,6 +3,7 @@
 @import "./main-product-detail.css";
 @import "./main-bitcoin-img-container.css";
 @import "./main-plans.css";
+@import "./footer.css";
 :root {
    --bitcoin-orange: #f7931a;
    --soft-orange: #ffe9d5;

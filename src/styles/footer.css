@@ -1,0 +1,41 @@
+footer {
+   display: flex;
+   flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+   width: 100%;
+   min-height: 150px;
+   background-color: var(--bitcoin-orange);
+}
+footer section {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+footer section p {
+   font-style: normal;
+   font-weight: 300;
+   font-size: 16px;
+   line-height: 24px;
+   color: var(--just-white);
+
+}
+footer section img {
+   width: 80px;
+
+}
+.left ul {
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 24px;
+   list-style: none;
+}
+.left li {
+   margin: 10px 0;
+}
+.left a {
+   text-decoration: none;
+   color: var(--just-white);
+}
