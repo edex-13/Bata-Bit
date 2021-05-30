@@ -1,5 +1,6 @@
 @import "./header.css";
 @import "./main-exchange.css";
+@import "./main-product-detail.css";
 :root {
    --bitcoin-orange: #f7931a;
    --soft-orange: #ffe9d5;
